@@ -1,0 +1,25 @@
+{
+  "valorTotal": 0,
+  "dataDeCriacao": "2022-10-04T16:02:55.048Z",
+  "produtos": [
+    {
+      "id": "1",
+      "quantidade": 2
+    },
+    {
+      "id": "2",
+      "quantidade": 4
+    }
+  ],
+  "cliente": {
+    "id": "1",
+    "cpf": "12345678901",
+    "nome": "João da Silva",
+    "email": "joao@teste.com.br"
+  },
+  "pagamento": {
+    "numeroDoCartao": "1234567890123456",
+    "validade": "12/2021",
+    "cvv": "123"
+  }
+}
